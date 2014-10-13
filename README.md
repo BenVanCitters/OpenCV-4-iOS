@@ -7,7 +7,7 @@ The most simple, bare bones openCV + iOS project.  All it does is Display the Op
 
 This iOS project requires opencv2.framework to compile... 
 
-Easy - Precompiled OSX Opencv2 binaries - http://sourceforge.net/projects/opencvlibrary/files/opencv-ios/ - (as of 3/4/2014)
+Easy - Precompiled OSX Opencv2 binaries; download the 'opencv2.framework' file from - http://sourceforge.net/projects/opencvlibrary/files/opencv-ios/ - (as of 10/13/2014)
 
 Hard - Instructions to build opencv2 from scratch - http://docs.opencv.org/doc/tutorials/introduction/ios_install/ios_install.html - (as of 3/4/2014)
 
